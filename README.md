@@ -1,6 +1,6 @@
 # dapulseBot
 
-Welcome to dapulseBot! I am a baic Telegram bot that allows you to send pulses into a desired board in Dapulse.
+Welcome to dapulseBot! I am a baic python Telegram bot that allows you to send pulses into a desired board in Dapulse.
 
 ### How to run your bot
 
